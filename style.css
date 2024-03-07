@@ -1,0 +1,31 @@
+.container {
+  padding: 16px 0;
+}
+.animation_404_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 420px;
+  background-position: center center;
+}
+.animation_404_txt .span1{
+  color: red;
+  font-size: xx-large;
+  font-weight: 800;
+  font-family: "FORTE";
+}
+.animation_404_txt .span2{
+  color: black;
+  font-size: xx-large;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}
+.animation_404_txt p {
+  color: grey;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+}
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #39ac31;
+  display: inline-block;
+}
